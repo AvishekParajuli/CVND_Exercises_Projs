@@ -1,8 +1,17 @@
 # Computer Vision Nanodegree Program, Exercises
 
 ### This is a personal repository for CVND exercises and projects solutions
-==
+I have compiled a list of course projects and their extention projects
 
+| Project task | Ref paper | Status|
+| --- | --- | --- |
+| Facial keypoint detection| - | Complete |
+| Image captioning | [Show and Tell](https://arxiv.org/pdf/1411.4555.pdf) | Complete|
+| SLAM(Landmark detection and tracking) | - | complete|
+| Image captioning with Attention | [Show, Attend, and Tell](https://arxiv.org/pdf/1502.03044.pdf)| In progress|
+
+
+# Readme from udacity
 This repository contains code exercises and materials for Udacity's [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891) program. It consists of tutorial notebooks that demonstrate, or challenge you to complete, various computer vision applications and techniques. These notebooks depend on a number of software packages to run, and so, we suggest that you create a local environment with these dependencies by following the instructions below.
 
 # Configure and Manage Your Environment with Anaconda
